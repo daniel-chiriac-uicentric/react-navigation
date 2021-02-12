@@ -222,7 +222,7 @@ const styles = StyleSheet.create({
     padding: 8,
   },
   label: {
-    marginRight: 32,
+    marginRight: 0,
     flex: 1,
   },
   button: {
